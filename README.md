@@ -2,6 +2,9 @@
 
 ## Overview
 
+Welcome to the wonderful world of Pok3r keyboard programming! If you're coming from the HHKB world as I am, you'll be happy to find that I'm going to provide a setup that should closely mirror the programming and UNIX-friendly layout that you have gotten use to.
+
+So first, some basics.
 
 ## General Information
 

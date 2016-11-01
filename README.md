@@ -14,6 +14,7 @@ You'll also need to remember a few shortcut commands in case you break everythin
 
 ### How the Layers Work
 
+First off, there are 4 layers to your new Pok3r keyboard. The first, base layer cannot be programmed. Each of the other layers (2 -4), can be reprogrammed with a different set of remapped keys. Most people use these different layers to modify keys for different operating systems.
 
 ### General Commands
 

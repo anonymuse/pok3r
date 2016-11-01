@@ -12,10 +12,21 @@ In order to start programming your Pok3r keyboard, you'll need to learn a few ba
 
 You'll also need to remember a few shortcut commands in case you break everything, and need to start a little fresh, or a lot of fresh. First the user manual can be found here.
 
+### How the Layers Work
+
+
 ### General Commands
 
 * Factory reset: Hold down both left and right `ALT` keys.
 * Reset current layer only: `FN + R` until spacebar LED stops flashing.
+
+### Blue Layer 2: Windows
+
+
+### Red Layer 3: OSX
+
+
+### Common Bindings
 
 
 ### The Great Escape

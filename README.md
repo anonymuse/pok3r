@@ -23,6 +23,7 @@ First off, there are 4 layers to your new Pok3r keyboard. The first, base layer 
 
 ### Blue Layer 2: Windows
 
+To program this layer, connect to it with `FN + ,<`.
 
 ### Red Layer 3: OSX
 

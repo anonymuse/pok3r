@@ -16,10 +16,20 @@ You'll also need to remember a few shortcut commands in case you break everythin
 
 First off, there are 4 layers to your new Pok3r keyboard. The first, base layer cannot be programmed. Each of the other layers (2 -4), can be reprogrammed with a different set of remapped keys. Most people use these different layers to modify keys for different operating systems.
 
-### General Commands
+### General Commands and Guidance
 
 * Factory reset: Hold down both left and right `ALT` keys.
 * Reset current layer only: `FN + R` until spacebar LED stops flashing.
+* The default layer cannot be programmed
+
+In order to re-assign your keys, you'll need to first activate the appropriate layer:
+
+* `FN + ,` for Layer 2 (Windows)
+* `FN + .` for Layer 3 (OSX)
+
+Then, you'll hit `FN + R_Ctrl`, which should activate the second LED undernearth the spacebar. This LED means that you can program a key. Hit the `target key` first, then enter `target content`, then tap `PN` to complete the transaction. The second LED will blink for the duration of the key programming, and will cease when you tap `PN`.
+
+Make sure that you use the keys as labelled on the keyboard during programming, no matter what they've been re-assigned.
 
 ### Blue Layer 2: Windows
 

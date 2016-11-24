@@ -33,26 +33,29 @@ Make sure that you use the keys as labelled on the keyboard during programming, 
 
 ## Red Layer 3: OSX
 
+Let's get layer 3 set up with some keybindings that will help us navigate the OSX/Linux world. Activate that layer with `FN + .`.
+
 
 ### Common Bindings
 
 
 ### The Great Escape
 
-Switch to layer 2. (or any other layer you wish to use)
+I don't personally take this step, but I wanted to mention it because it's pretty handy for heavy ``` and `~` users. Following these steps will get you the following:
 
-Reference:https://www.reddit.com/r/MechanicalKeyboards/comments/4nhi22/pok3r_help_programming_esc_key_to_grave_accent/d452j61/
+* Pressing the physical version of the escape key will get you ```.
+* Pressing `shift` + `EST` will yield `~`.
+* `FN` + `ESC` will give you the actual escape key.
 
-Press FN+R_control to enter programming mode, which will illuminate the spacebar LED to indicate that you're in programming mode.
+First, press `FN` + `R_Ctrl` to enter programming mode, which will illuminate the spacebar LED.
 
-Press ESC. This is to indicate the physical key you want to remap for a new key or function. The LED will begin to flash.
+Press `ESC`, then `FN` + `ESC`. 
 
-Press FN+ESC. This is the NEW key or function you are assigning to the physical key you pressed in the previous step.
+Press `PN` to complete the programming.
 
-Press PN to finish assigning NEW key or functions to the physical ESC key. The LED will stop flashing.
+Next press `FN` + `ESC`, then `ESC`. Press `PN` again to complete the programming.
 
-Press FN+R_control to exit programming mode. The LED will turn off.
-
+Tap `FN` + `R_Ctrl` to exit programming mode.
 
 ### No One Likes Caps Lock
 

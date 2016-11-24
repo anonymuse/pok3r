@@ -41,9 +41,9 @@ Let's get layer 3 set up with some keybindings that will help us navigate the OS
 
 ### The Great Escape
 
-I don't personally take this step, but I wanted to mention it because it's pretty handy for heavy ``` and `~` users. Following these steps will get you the following:
+I don't personally take this step, but I wanted to mention it because it's pretty handy for heavy `\`` and `~` users. Following these steps will get you the following:
 
-* Pressing the physical version of the escape key will get you ```.
+* Pressing the physical version of the escape key will get you `\``.
 * Pressing `shift` + `EST` will yield `~`.
 * `FN` + `ESC` will give you the actual escape key.
 

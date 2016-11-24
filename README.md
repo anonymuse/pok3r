@@ -31,11 +31,7 @@ Then, you'll hit `FN + R_Ctrl`, which should activate the second LED undernearth
 
 Make sure that you use the keys as labelled on the keyboard during programming, no matter what they've been re-assigned.
 
-### Blue Layer 2: Windows
-
-To program this layer, connect to it with `FN + ,<`.
-
-### Red Layer 3: OSX
+## Red Layer 3: OSX
 
 
 ### Common Bindings
@@ -56,3 +52,8 @@ Press FN+R_control to exit programming mode. The LED will turn off.
 
 
 ### Move the Function
+
+## Blue Layer 2: Windows
+
+To program this layer, connect to it with `FN + ,<`.
+

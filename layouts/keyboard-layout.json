@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Pok3r \"HHKB\" Layout",
+    "author": "jesse.white",
+    "notes": "See [github](https://github.com/anonymuse/pok3r)"
+  },
+  [
+    {
+      "y": 1.5,
+      "c": "#3c4041",
+      "t": "#aba18b",
+      "p": "DCS",
+      "a": 7
+    },
+    "Esc\n\n\n\n` ~",
+    {
+      "a": 4
+    },
+    "!\n1\n\n\nF1",
+    "@\n2\n\n\nF2",
+    "#\n3\n\n\nF3",
+    "$\n4\n\n\nF4",
+    "%\n5\n\n\nF5",
+    "^\n6\n\n\nF6",
+    "&\n7\n\n\nF7",
+    "*\n8\n\n\nF8",
+    "(\n9\n\n\nF9",
+    ")\n0\n\n\nF10",
+    "_\n-\n\n\nF11",
+    "+\n=\n\n\nF12",
+    {
+      "a": 7,
+      "w": 2
+    },
+    "\\\n\n\n\n|"
+  ],
+  [
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "\nTab",
+    "Q",
+    "W",
+    "E",
+    "R\n\n\n\nReset",
+    "T\n\n\n\n15ms",
+    "Y\n\n\n\nCal",
+    "U\n\n\n\nPgUp",
+    {
+      "c": "#c7c3b5",
+      "t": "#ba1312"
+    },
+    "I\n\n\n\nHome",
+    {
+      "c": "#3c4041",
+      "t": "#aba18b"
+    },
+    "O\n\n\n\nPgDn",
+    "P\n\n\n\nPrtSc",
+    "{\n[\n\n\nScrlk",
+    "}\n]\n\n\nPause",
+    {
+      "w": 1.5
+    },
+    "\nDel\n\n\n\n\nBackspace"
+  ],
+  [
+    {
+      "c": "#c7c3b5",
+      "t": "#ba1312",
+      "w": 1.25,
+      "w2": 1.75
+    },
+    "\nCtrl",
+    {
+      "x": 0.5,
+      "c": "#3c4041",
+      "t": "#aba18b"
+    },
+    "A",
+    "S",
+    "D",
+    {
+      "c": "#c7c3b5",
+      "t": "#ba1312"
+    },
+    "F\n\n\n\nPgDn",
+    {
+      "c": "#3c4041",
+      "t": "#aba18b"
+    },
+    "G\n\n\n\n0.1s",
+    {
+      "c": "#c7c3b5",
+      "t": "#ba1312"
+    },
+    "H\n\n\n\nLeft",
+    "J\n\n\n\nDown",
+    "K\n\n\n\nUp",
+    "L\n\n\n\nRight",
+    {
+      "c": "#3c4041",
+      "t": "#aba18b"
+    },
+    ":\n;\n\n\nIns",
+    "\"\n'\n\n\nDel",
+    {
+      "w": 2.25
+    },
+    "\nEnter"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "\nShift",
+    "Z",
+    "X",
+    "C",
+    "V",
+    {
+      "c": "#c7c3b5",
+      "t": "#ba1312"
+    },
+    "B\n\n\n\nPgUp",
+    {
+      "c": "#3c4041",
+      "t": "#aba18b"
+    },
+    "N\n\n\n\nEnd",
+    "M\n\n\n\nDefault",
+    "<\n,\n\n\nLayer 2",
+    ">\n.\n\n\nLayer 3",
+    "?\n/\n\n\nLayer 4",
+    {
+      "w": 2.75
+    },
+    "\nShift"
+  ],
+  [
+    {
+      "c": "#c7c3b5",
+      "t": "#ba1312",
+      "w": 1.25
+    },
+    "\nFN",
+    {
+      "w": 1.25
+    },
+    "\nOption",
+    {
+      "w": 1.25
+    },
+    "\nCMD",
+    {
+      "c": "#3c4041",
+      "t": "#aba18b",
+      "p": "DCS SPACE",
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "c": "#c7c3b5",
+      "t": "#ba1312",
+      "p": "DCS",
+      "a": 4,
+      "w": 1.25
+    },
+    "\nCMD",
+    {
+      "w": 1.25
+    },
+    "\nOption",
+    {
+      "c": "#3c4041",
+      "t": "#aba18b",
+      "w": 1.25
+    },
+    "\nPn",
+    {
+      "w": 1.25
+    },
+    "\nCtrl"
+  ]
+]
